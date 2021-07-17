@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Gupta
-- 👀 I’m International relations enthusiast, love to code with hot coffee
+- 👀 I’m an International relations enthusiast, love to code with hot coffee
 - 🌱 I’m currently learning Next.js, Node.js, MongoDB
 - 📫 How to reach me: shivamgupta1996@gmail.com
 
